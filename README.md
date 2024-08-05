@@ -12,6 +12,5 @@
   <img align="center" alt ="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
   <img aling= "center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
-Apaixonado por tecnologia e entrusiasta de Inteligência Artificial
 ## Contato
 email:caiorossini0507@gmail.com
